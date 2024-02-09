@@ -83,7 +83,7 @@ def snake():
     # Set up the screen
     wn = Screen()
     wn.title("Snake Game")
-    wn.bgpic("DESKTOP-WALLPAPER-UHD-16-9-ASPECT.png")
+    wn.bgpic("img2.png")
     wn.setup(1200, 850)
     wn.tracer(0)
 
