@@ -25,7 +25,11 @@
             </li>
         </ul>
     </li>
-    <li> Open main file ( main.py ) then run it. </li>
+    <li> Open 
+        <a href="https://github.com/FaroukAshrafElshamy/Computer-Graphics-project-/blob/main/main.py">
+        main.py 
+        </a>
+        then run it. </li>
     <li> Choose wich algorithm you wanna to use and after each run of an algorithm click Refresh button.</li>
     <li> You will have the ordered pairs of each point according to your input in a text file.
 </ol>
