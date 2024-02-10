@@ -49,4 +49,4 @@
 ## Project members 👥
 * [`Farouk Ashraf Elshamy`](https://github.com/FaroukAshrafElshamy)
 * [`Mohamed Mostafa Abd El Hameed`](https://github.com/Mohamed-Mostafaaa)
-* `Omar Mohamed Shetewy`
+* [`Omar Mohamed Shetewy`](https://github.com/omar-mohamed-shetewy)
